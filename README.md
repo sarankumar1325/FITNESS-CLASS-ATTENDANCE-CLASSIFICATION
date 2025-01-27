@@ -2,6 +2,12 @@
 
 A Streamlit web application that predicts fitness class attendance using machine learning.
 
+
+
+https://github.com/user-attachments/assets/bcd0e53f-1e42-40db-bba7-95acf3c9f475
+
+
+
 ## Features
 - Attendance prediction with probability scores
 - Interactive dashboard with visualizations
